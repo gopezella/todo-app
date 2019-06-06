@@ -1,0 +1,23 @@
+td:nth-child(5) {
+    text-align: center;
+}
+
+td:nth-child(5) button:nth-child(2) {
+    background: black;
+    color: white;
+    font-size: smaller;
+    padding: 8px;
+}
+
+td:nth-child(5) button:nth-child(1) {
+    background: whitesmoke;
+    padding: 8px;
+    font-size: smaller;
+    margin-right: 10px;
+}
+
+thead {
+    background: black;
+    color: white;
+}
+
